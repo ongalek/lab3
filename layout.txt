@@ -1,0 +1,7 @@
+vert
+<weight=30 fit label gap = 2>
+<weight=30 fit append gap = 2>
+<weight=355<textbox>>
+< fit actionbut gap = 5>
+<>
+<weight=50<button>>
